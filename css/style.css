@@ -29,3 +29,7 @@ header {
 #submitbutton {
 	margin-top: 25px;
 }
+
+body input{
+	padding:10px;
+}
